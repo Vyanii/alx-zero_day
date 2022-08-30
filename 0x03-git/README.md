@@ -1,2 +1,2 @@
 
-ALX zero dat Github exercise
+ALX zero day Github exercise
